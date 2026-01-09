@@ -45,5 +45,6 @@ https://www.coolapk.com/feed/65005997?s=YjdmY2UzYzAyM2ExNDg4ZzY5NjBmZDRjega1591
 
 ## 🙏 致谢
 - 原创概念与实现：@Yz堕仙（酷安）
-- 社区反馈与测试用户
-- Magisk 与 KernelSU 开发团队
+- 音量键检测：[佚名（未找到具体信息，只存留了一个.md）](Volume-key Selector)
+- 社区反馈与测试用户（虽然目前还没有）
+- Magisk 、 KernelSU 与 Apatch 开发团队
