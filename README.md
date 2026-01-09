@@ -1,5 +1,6 @@
 # StartupTunerPro
 A Magisk Module for Automatic Phone Optimization at Boot
+
 语言/Language:[中文](README_CN.md)/[English](README.md)
 
 ## 📖 Module Description
