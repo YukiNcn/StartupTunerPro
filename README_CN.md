@@ -7,8 +7,7 @@
 StartupTunerPro 是一款功能全面的 Magisk 模块，可在开机后首次解锁屏幕时自动优化您的 Android 设备。它在后台静默运行，增强系统安全性、清理系统残余文件并自动启动必要服务。
 
 ## 📝 开发历史
-本 Magisk 模块改编自酷安用户 @Yz堕仙 的帖子：  
-https://www.coolapk.com/feed/65005997?s=YjdmY2UzYzAyM2ExNDg4ZzY5NjBmZDRjega1591
+本 Magisk 模块改编自酷安用户 @Yz堕仙 的帖子：[点击以跳转](https://www.coolapk.com/feed/65005997?s=YjdmY2UzYzAyM2ExNDg4ZzY5NjBmZDRjega1591)
 
 ## ✨ 功能特性
 
