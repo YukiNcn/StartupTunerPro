@@ -43,7 +43,7 @@ StartupTunerPro 是一款功能全面的 Magisk 模块，可在开机后首次�
 欢迎提交问题反馈和建议！报告问题时请提供设备型号、Android 版本和框架版本信息。
 
 ## 🙏 致谢
-- 原创概念与实现：@Yz堕仙（酷安）
+- 原创概念与实现：[@Yz堕仙（酷安）](http://www.coolapk.com/u/1116390)
 - 音量键检测：[佚名](Volume-key-Selector.md)
 - 社区反馈与测试用户（虽然目前还没有）
 - Magisk 、 KernelSU 与 Apatch 开发团队
