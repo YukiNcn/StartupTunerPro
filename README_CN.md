@@ -1,5 +1,6 @@
 # StartupTunerPro
 开机自动优化手机的 Magisk 模块
+
 语言/Language:[中文](README_CN.md)/[English](README.md)
 
 ## 📖 模块描述
