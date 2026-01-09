@@ -1,5 +1,6 @@
 # StartupTunerPro
 A Magisk Module for Automatic Phone Optimization at Boot
+语言/Language:[中文](README_CN.md)/[English](README.md)
 
 ## 📖 Module Description
 StartupTunerPro is a comprehensive Magisk module that automatically optimizes your Android device upon first screen unlock after boot. It runs silently in the background, enhancing system security, cleaning up residual system files, and automatically launching essential services.
